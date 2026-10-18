@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "292007229880",
+    "project_id": "ecomins-backend-2026",
+    "storage_bucket": "ecomins-backend-2026.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:292007229880:android:8cf02f63694c2a3d11f74d",
+        "android_client_info": {
+          "package_name": "com.example.ecomins_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCq0sOd9mtyqHqajF2tlVBPiJsDwXnSNeQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
